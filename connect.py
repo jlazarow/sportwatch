@@ -5,7 +5,7 @@ import usb.control
 import binascii
 
 NIKE_VENDOR_ID = 0x11ac
-NIKE_PRODUCT_ID = 0x5455
+NIKE_PRODUCT_ID = 0x5454
 
 # The Dutch paper performed only replay attacks!
 # If I want to innovate I need to RE this interface. Fun!

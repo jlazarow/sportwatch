@@ -1,6 +1,8 @@
 #!/ usr / bin /python2
 NIKE_VENDOR_ID = 0x11ac
-NIKE_PRODUCT_ID = 0x5455
+
+# mine is 5454, seems others have 5455.
+NIKE_PRODUCT_ID = 0x5454
 
 import usb.core
 import usb.util
